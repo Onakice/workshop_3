@@ -1,1 +1,2 @@
 print("ice")
+print("b")
